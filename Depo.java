@@ -67,3 +67,4 @@ BİR OKUL YÖNETİM PLATFORMU KODLAYINIZ.
 
 
 }
+//remotta degisiklik yaptim
